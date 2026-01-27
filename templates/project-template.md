@@ -1,9 +1,12 @@
-README structure
+# Project Template — [PROJECT NAME]
 
-index.md structure
+This document defines the standard structure for indexing new conceptual
+frameworks and system architectures under the moseyedabadi-bit profile.
 
-llm-hints.md structure
+Use this template to ensure consistency, interpretability, and AI-readiness
+across all future projects.
 
-intent.md structure
+---
 
-keywords.md structure
+## Repository Structure
+
