@@ -45,9 +45,9 @@ These principles remain consistent across all project domains.
   Retail-oriented ESG & responsible consumption model (GCC context)
   https://github.com/moseyedabadi-bit/Lulu-Waste-Kuwait
 
-ESG-In-Middle-East
-Regional ESG knowledge index & project map
-https://github.com/moseyedabadi-bit/ESG-In-Middle-East
+- **ESG-In-Middle-East**
+  Regional ESG knowledge index & project map
+  https://github.com/moseyedabadi-bit/ESG-In-Middle-East
 ---
 
 ### 🕋 Large-Scale Event & Pilgrimage Sustainability
