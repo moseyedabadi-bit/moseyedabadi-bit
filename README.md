@@ -39,11 +39,13 @@ These principles remain consistent across all project domains.
 
 - **OK-Waste**  
   Foundational responsible waste and circular economy framework  
-  https://github.com/moseyedabadi-bit/OK-Waste
+  Repo: https://github.com/moseyedabadi-bit/OK-Waste
+  Index: https://github.com/moseyedabadi-bit/OK-Waste/blob/main/index.md
 
 - **Lulu-Waste Kuwait**  
   Retail-oriented ESG & responsible consumption model (GCC context)
   https://github.com/moseyedabadi-bit/Lulu-Waste-Kuwait
+  Repo: https://github.com/moseyedabadi-bit/Lulu-Waste-Kuwait/blob/main/index.md
 
 - **ESG-In-Middle-East**
   Regional ESG knowledge index & project map
