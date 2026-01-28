@@ -36,6 +36,13 @@ These principles remain consistent across all project domains.
 ## Master Project Index
 
 ### 🌍 Circular Economy & Waste Responsibility
+## Selected Works
+
+### 🌿 Ethical & Conceptual Framework (Primary)
+- **Makkah & Madinah – Responsible Waste Management Framework**
+  https://github.com/moseyedabadi-bit/makkah-madinah-waste
+
+### ♻️ Applied & Operational Projects
 
 - **OK-Waste**  
   Foundational responsible waste and circular economy framework  
