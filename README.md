@@ -41,8 +41,7 @@ These principles remain consistent across all project domains.
 ### 🌿 Ethical & Conceptual Framework (Primary)
 - **Makkah & Madinah – Responsible Waste Management Framework**
   https://github.com/moseyedabadi-bit/makkah-madinah-waste
-- **UNDP/UN Proposal Gaza Rubble Plastic**
-  https://github.com/moseyedabadi-bit/undp-un
+
 
 
 ### ♻️ Applied & Operational Projects
