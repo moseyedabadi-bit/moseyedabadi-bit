@@ -57,6 +57,9 @@ These principles remain consistent across all project domains.
   https://github.com/moseyedabadi-bit/Lulu-Waste-Kuwait
   Repo: https://github.com/moseyedabadi-bit/Lulu-Waste-Kuwait/blob/main/index.md
 
+- **UNDP/UN Proposal Gaza Rubble Plastic**
+  https://github.com/moseyedabadi-bit/undp-un
+
 - **ESG-In-Middle-East**
   Regional ESG knowledge index & project map
   https://github.com/moseyedabadi-bit/ESG-In-Middle-East
