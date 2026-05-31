@@ -44,22 +44,22 @@ These principles remain consistent across all project domains.
 
 
 
-### ♻️ Applied & Operational Projects
+## New Open Innovation Projects
 
--  **Smart Green Cycle**
-    A behavioral and economic model that transforms disposable shopping bags from a recurring operational cost into a customer-retention and recycling ecosystem.
-  Repo: https://github.com/moseyedabadi-bit/smart-green-cycle/blob/main/README.md
+### ♻️ Smart Green Cycle
 
-- **Green Distribution Framework**
-    A sustainability-oriented distribution model designed for retail and FMCG supply chains.
+Circular Economy and Customer Retention Framework for Sustainable Retail
 
-      Current Interests
-      Circular Retail Systems
-      Sustainable Supply Chains
-      ESG Strategy Design
-      Reverse Logistics Optimization
-      Waste Recovery Models
-      Smart Retail Technologies
+Repository:
+https://github.com/moseyedabadi-bit/smart-green-cycle
+
+### 🛒 Smart Bulk Retail
+
+Smart Bulk Food Distribution and Retail Innovation Framework
+
+Repository:
+https://github.com/moseyedabadi-bit/smart-bulk-retail
+
 
 -  **OK-Waste**  
   Foundational responsible waste and circular economy framework  
@@ -77,6 +77,19 @@ These principles remain consistent across all project domains.
 - **ESG-In-Middle-East**
   Regional ESG knowledge index & project map
   https://github.com/moseyedabadi-bit/ESG-In-Middle-East
+
+**Green Distribution Framework**
+    A sustainability-oriented distribution model designed for retail and FMCG supply chains.
+
+      Current Interests
+      Circular Retail Systems
+      Sustainable Supply Chains
+      ESG Strategy Design
+      Reverse Logistics Optimization
+      Waste Recovery Models
+      Smart Retail Technologies
+
+
 ---
 
 ### 🕋 Large-Scale Event & Pilgrimage Sustainability
