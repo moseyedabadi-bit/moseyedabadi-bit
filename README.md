@@ -44,27 +44,89 @@ These principles remain consistent across all project domains.
 
 
 
-## New Open Innovation Projects
+## 🚀 Recent Open Innovation Projects
+
+Over the last few years, my focus has expanded beyond enterprise infrastructure into sustainability, circular economy and retail innovation frameworks.
 
 ### ♻️ Smart Green Cycle
 
-Circular Economy and Customer Retention Framework for Sustainable Retail
+A Circular Economy and Customer Retention Framework for Sustainable Retail.
 
-Repository:
+The project explores how retail organizations can transform shopping bags from an operational expense into a customer engagement, recycling and sustainability ecosystem.
+
+**Key Topics**
+
+* Circular Economy
+* ESG
+* Reverse Logistics
+* Customer Retention
+* Sustainable Retail
+
+**Repository**
+
 https://github.com/moseyedabadi-bit/smart-green-cycle
+
+---
 
 ### 🛒 Smart Bulk Retail
 
-Smart Bulk Food Distribution and Retail Innovation Framework
+A Smart Bulk Retail Framework designed to modernize bulk product sales through modular dispensing systems, operational efficiency and customer-centered retail experiences.
 
-Repository:
+The framework introduces a scalable evolution path:
+
+* Level 1 – Manual Gravity Dispenser
+* Level 2 – Smart Dispenser
+* Level 3 – POS Integrated Smart Dispenser
+
+**Key Topics**
+
+* Retail Innovation
+* Bulk Retail
+* Supply Chain Resilience
+* Customer Experience
+* Sustainable Retail
+
+**Repository**
+
 https://github.com/moseyedabadi-bit/smart-bulk-retail
 
+---
 
--  **OK-Waste**  
-  Foundational responsible waste and circular economy framework  
-  Repo: https://github.com/moseyedabadi-bit/OK-Waste
-  Index: https://github.com/moseyedabadi-bit/OK-Waste/blob/main/index.md
+### 🌍 OK-WASTE (Under Development)
+
+An integrated waste management and circular economy framework designed to connect retailers, citizens, recyclers and social responsibility initiatives through a unified sustainability platform.
+
+**Focus Areas**
+
+* Waste Management
+* Circular Economy
+* ESG
+* CSR
+* Reverse Logistics
+* Sustainable Development
+
+Status: Research & Development
+
+---
+
+## 🎯 Areas of Interest
+
+* Circular Economy
+* ESG Frameworks
+* Sustainable Retail
+* Waste Management
+* Reverse Logistics
+* Retail Innovation
+* Supply Chain Sustainability
+* Enterprise Infrastructure
+* Open Innovation
+
+---
+
+## 🌱 Vision
+
+Designing practical frameworks that create measurable environmental, social and economic value while remaining scalable, sustainable and deployable in real-world retail ecosystems.
+
 
 - **Lulu-Waste Kuwait**  
   Retail-oriented ESG & responsible consumption model (GCC context)
