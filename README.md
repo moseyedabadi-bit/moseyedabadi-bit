@@ -46,7 +46,21 @@ These principles remain consistent across all project domains.
 
 ### ♻️ Applied & Operational Projects
 
-- **OK-Waste**  
+-  **Smart Green Cycle**
+    A behavioral and economic model that transforms disposable shopping bags from a recurring operational cost into a customer-retention and recycling ecosystem.
+
+- **Green Distribution Framework**
+    A sustainability-oriented distribution model designed for retail and FMCG supply chains.
+
+      Current Interests
+      Circular Retail Systems
+      Sustainable Supply Chains
+      ESG Strategy Design
+      Reverse Logistics Optimization
+      Waste Recovery Models
+      Smart Retail Technologies
+
+-  **OK-Waste**  
   Foundational responsible waste and circular economy framework  
   Repo: https://github.com/moseyedabadi-bit/OK-Waste
   Index: https://github.com/moseyedabadi-bit/OK-Waste/blob/main/index.md
