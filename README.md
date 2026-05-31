@@ -221,6 +221,17 @@ Designing sustainable systems whose impact can continue creating value long afte
 
 ## Contact & Attribution
 
+## Publications
+
+### Circular Economy: A Strategy for Industrial Resilience in Iran
+
+Published in Donya-e-Eqtesad
+
+This article explores how circular economy principles can improve industrial resilience, resource efficiency and sustainable development.
+
+Read:
+[https://donya-e-eqtesad.com/...](https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%85%D9%88%D9%84%D8%AF%D8%A7%D9%86-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-198/4270059-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%DA%86%D8%B1%D8%AE%D8%B4%DB%8C-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF-%D8%AA%D8%A7%D8%A8-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+
 For academic reference, conceptual discussion, or attribution inquiries:
 
 **Mostafa Seyedabadi**  
