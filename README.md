@@ -138,6 +138,10 @@ Execution, adaptation, and localization are the responsibility of future stakeho
 provided the foundational intent is respected.
 
 ---
+****Vision
+
+Designing sustainable systems whose impact can continue creating value long after their implementation.
+
 
 ## Contact & Attribution
 
