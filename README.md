@@ -48,6 +48,7 @@ These principles remain consistent across all project domains.
 
 -  **Smart Green Cycle**
     A behavioral and economic model that transforms disposable shopping bags from a recurring operational cost into a customer-retention and recycling ecosystem.
+   https://github.com/moseyedabadi-bit/smart-green-cycle/blob/main/README.md
 
 - **Green Distribution Framework**
     A sustainability-oriented distribution model designed for retail and FMCG supply chains.
