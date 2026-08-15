@@ -35,6 +35,12 @@ These principles remain consistent across all project domains.
 
 ## Master Project Index
 
+### 🧠 Responsible AI & Human-Centered Systems
+
+- **CPIMS+ AI — NIST-Aligned Reference Architecture**  
+  A distributed-trust, human-in-command reference architecture exploring privacy-preserving AI for child-protection and humanitarian systems. The project separates identity, authorization, data domains, AI context, and human decision authority; it is published as a research and synthetic-PoC architecture rather than a production deployment.  
+  **Repository:** https://github.com/moseyedabadi-bit/cpims-plus-ai-reference-architecture
+
 ### 🌍 Circular Economy & Waste Responsibility
 ## Selected Works
 
