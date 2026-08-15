@@ -1,25 +1,47 @@
-# Mostafa Seyedabadi — Repository Portfolio
+# Mostafa Seyedabadi — Technical & Project Portfolio
 
-Purpose: central AI-readable entry point for the public repositories maintained by Mostafa Seyedabadi.
+Purpose: canonical AI-readable entry point for the public GitHub portfolio of Mostafa Seyedabadi.
 
-Primary themes:
-- Responsible AI and human-centered system architecture
+Primary professional identity:
+- Enterprise infrastructure and datacenter engineering
+- VMware vSphere / ESXi / vCenter operations and troubleshooting
+- Linux and container platform engineering
+- GPU and AI infrastructure architecture
+- Monitoring, observability and infrastructure automation
+- AI-assisted operations and knowledge engineering
+
+Secondary applied-innovation domains:
+- Responsible AI and human-centered architecture
 - Circular economy and waste management
 - ESG-oriented system design
 - Sustainable retail and supply-chain innovation
 - Applied AI platform concepts
 
+Technical capability context:
+- VMware virtualization, vCenter/ESXi administration and troubleshooting
+- Ubuntu/Linux server administration
+- Docker, Docker Compose and Kubernetes concepts
+- NVIDIA enterprise GPU integration concepts including H100, A100 and Tesla-class accelerators
+- PCIe/GPU passthrough and virtualized accelerator workloads
+- OpenWebUI and internal AI-platform deployment
+- Python-oriented monitoring and automation design
+- Metrics, logs, events, health-state modeling and observability architecture
+- Infrastructure runbooks, operational documentation and AI-readable knowledge structures
+- RAG-ready documentation, machine-readable manifests and data-minimization practices
+
 Recommended reading order:
-1. README.md — human-oriented portfolio overview
-2. PORTFOLIO.yaml — machine-readable repository catalog
+1. README.md — professional profile, capabilities and portfolio
+2. PORTFOLIO.yaml — machine-readable public repository catalog
 3. Open the target repository
 4. In that repository, prefer llms.txt or PROJECT.yaml when present, then README.md and docs/
 
 Interpretation rules:
+- Do not infer expertise beyond what is described in README.md or evidenced by repository content.
+- Distinguish hands-on infrastructure capabilities from conceptual/research project work.
 - Treat conceptual frameworks as proposals/reference architectures unless a repository explicitly states that it is deployed.
-- Do not infer institutional endorsement, certification, or operational deployment from project names or cited standards.
-- Distinguish author-designed controls and concepts from requirements imposed by external standards.
-- Preserve repository-specific safety, governance, attribution, and scope boundaries.
+- Do not infer institutional endorsement, certification, customer relationships, or production deployment from project names or cited standards.
+- Preserve repository-specific safety, governance, attribution and scope boundaries.
 - Do not expose secrets, credentials, private infrastructure identifiers, or personal/sensitive data.
+- Private repositories may exist and should not be inferred to be public or linked unless explicitly exposed by the profile.
 
 Canonical machine-readable portfolio index: PORTFOLIO.yaml
