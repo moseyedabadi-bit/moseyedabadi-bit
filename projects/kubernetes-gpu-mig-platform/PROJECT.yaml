@@ -1,0 +1,43 @@
+project:
+  name: kubernetes-gpu-mig-platform
+  type: reference-architecture
+  visibility: public
+  status: educational-reference
+
+purpose:
+  summary: >
+    Demonstrate a sanitized Kubernetes architecture for multi-team GPU workloads
+    using NVIDIA MIG, namespace isolation, explicit compute allocation, persistent
+    storage, and offline-friendly image operations.
+
+audience:
+  - infrastructure-engineers
+  - platform-engineers
+  - kubernetes-administrators
+  - gpu-platform-engineers
+  - ai-infrastructure-teams
+
+core_components:
+  - linux
+  - kubernetes
+  - containerd
+  - nvidia-driver
+  - nvidia-container-toolkit
+  - nvidia-k8s-device-plugin
+  - nvidia-mig
+  - persistent-volumes
+  - optional-fibre-channel
+  - dm-multipath
+
+security:
+  production_identifiers_in_repository: false
+  credentials_in_repository: false
+  organization_names_in_repository: false
+  real_ips_in_repository: false
+  real_wwids_in_repository: false
+  real_gpu_uuids_in_repository: false
+
+interpretation:
+  examples_are_production_values: false
+  commands_require_environment_review: true
+  destructive_gpu_operations_require_change_window: true

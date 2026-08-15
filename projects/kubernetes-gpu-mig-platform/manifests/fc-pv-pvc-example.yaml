@@ -1,0 +1,41 @@
+# Replace every placeholder before use.
+# This example intentionally contains no real SAN identifiers.
+
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-team-a-workspace
+spec:
+  capacity:
+    storage: <WORKSPACE_SIZE>
+  accessModes:
+    - ReadWriteOnce
+  persistentVolumeReclaimPolicy: Retain
+  storageClassName: ""
+  volumeMode: Filesystem
+  fc:
+    fsType: ext4
+    wwids:
+      - "<SAN_LUN_WWID>"
+  nodeAffinity:
+    required:
+      nodeSelectorTerms:
+        - matchExpressions:
+            - key: gpu-workload
+              operator: In
+              values:
+                - "true"
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: workspace
+  namespace: team-a
+spec:
+  accessModes:
+    - ReadWriteOnce
+  storageClassName: ""
+  volumeName: pv-team-a-workspace
+  resources:
+    requests:
+      storage: <WORKSPACE_SIZE>

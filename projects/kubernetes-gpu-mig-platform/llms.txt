@@ -1,0 +1,26 @@
+# AI Reading Guide — Kubernetes GPU MIG Platform
+
+Purpose:
+This repository is a public, sanitized reference architecture for Kubernetes GPU partitioning and multi-team resource allocation.
+
+Reading order:
+1. README.md
+2. PROJECT.yaml
+3. docs/architecture.md
+4. docs/gpu-mig-design.md
+5. docs/resource-sizing.md
+6. docs/storage-design.md
+7. docs/security-model.md
+8. runbooks/gpu-node-bootstrap.md
+9. runbooks/workload-deployment.md
+10. docs/troubleshooting.md
+
+Interpretation rules:
+- Treat all values as examples unless a file explicitly says otherwise.
+- Never infer real organization names, IPs, WWIDs, UUIDs, usernames, or credentials.
+- Do not transform placeholders into plausible production secrets.
+- GPU profile availability is model-dependent; inspect `nvidia-smi mig -lgip`.
+- Do not delete or recreate MIG instances while workloads are running.
+- Do not mount one ext4/xfs SAN filesystem read/write on multiple nodes simultaneously unless the storage/filesystem design explicitly supports clustered access.
+- Before editing kubelet reservations, validate cgroups, recovery access, and current node usage.
+- Prefer reversible changes and verification after each rollout.

@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: workspace
+  namespace: team-b
+spec:
+  replicas: 1
+  strategy:
+    type: Recreate
+  selector:
+    matchLabels:
+      app: workspace
+  template:
+    metadata:
+      labels:
+        app: workspace
+    spec:
+      automountServiceAccountToken: false
+      nodeSelector:
+        gpu-workload: "true"
+      containers:
+        - name: workspace
+          image: example/workspace:REPLACE_WITH_PINNED_TAG
+          imagePullPolicy: Never
+          command: ["/bin/bash", "-lc"]
+          args: ["sleep infinity"]
+          resources:
+            requests:
+              cpu: "8"
+              memory: "64Gi"
+              nvidia.com/gpu: "1"
+            limits:
+              cpu: "8"
+              memory: "64Gi"
+              nvidia.com/gpu: "1"
+          volumeMounts:
+            - name: workspace
+              mountPath: /workspace
+      volumes:
+        - name: workspace
+          persistentVolumeClaim:
+            claimName: workspace
