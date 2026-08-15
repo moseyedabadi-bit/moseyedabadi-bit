@@ -1,0 +1,57 @@
+schema_version: 1
+owner:
+  name: Mostafa Seyedabadi
+  github: moseyedabadi-bit
+portfolio_purpose: Human- and AI-readable index of public research, sustainability, retail innovation, and AI architecture repositories.
+repositories:
+  - name: cpims-plus-ai-reference-architecture
+    domain: responsible-ai
+    type: reference-architecture
+    status: research-synthetic-poc
+    ai_entry: llms.txt
+  - name: OK-Waste
+    domain: circular-economy
+    type: conceptual-operational-framework
+    status: research-development
+    ai_entry: llms.txt
+  - name: Lulu-Waste-Kuwait
+    domain: circular-economy-esg
+    type: pilot-ready-framework
+    status: concept
+    ai_entry: llms.txt
+  - name: makkah-madinah-waste
+    domain: pilgrimage-sustainability
+    type: conceptual-ethical-framework
+    status: research
+    ai_entry: llms.txt
+  - name: undp-un
+    domain: humanitarian-recovery
+    type: independent-proposal-package
+    status: proposal-draft
+    ai_entry: llms.txt
+  - name: ESG-In-Middle-East
+    domain: esg-knowledge-index
+    type: portfolio-index
+    status: evolving
+    ai_entry: llms.txt
+  - name: smart-green-cycle
+    domain: sustainable-retail
+    type: circular-economy-framework
+    status: concept-validation-pilot-design
+    ai_entry: llms.txt
+  - name: smart-bulk-retail
+    domain: retail-innovation
+    type: product-framework
+    status: concept-development
+    ai_entry: llms.txt
+  - name: iran-mining-ai-platform
+    domain: mining-ai
+    type: platform-concept
+    status: architecture-business-concept
+    ai_entry: llms.txt
+conventions:
+  human_entry: README.md
+  ai_entry: llms.txt
+  machine_manifest: PROJECT.yaml
+  documentation_root: docs/
+  secrets_policy: Never store credentials, API keys, private tokens, or sensitive production identifiers in public repositories.
