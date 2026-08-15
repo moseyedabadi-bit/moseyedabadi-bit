@@ -1,48 +1,120 @@
 # Mostafa Seyedabadi
 
-**Concept Steward · System Architect · Responsible Development**
+**Enterprise Infrastructure & AI Systems Architect · Datacenter Engineer · Applied AI & Automation**
 
-I work across responsible AI, enterprise systems, circular economy, ESG-oriented design, sustainable retail, and applied innovation. This GitHub profile is the central entry point for my public research frameworks, reference architectures, and concept-development repositories.
+I work at the intersection of **enterprise infrastructure, virtualization, GPU-accelerated AI platforms, Linux, container platforms, monitoring, and applied system architecture**.
 
-> Most repositories here are conceptual, research, or reference architectures. A repository should not be interpreted as a deployed production system, institutional endorsement, certification, or commercial offering unless it explicitly says so.
+My background is primarily hands-on infrastructure engineering: designing, operating, troubleshooting, and documenting enterprise systems across datacenter, virtualization, compute, storage, networking, observability, and emerging AI infrastructure. Alongside that work, I develop conceptual and reference architectures in responsible AI, sustainability, circular economy, and retail innovation.
 
-## Start Here
+> This profile represents technical work, architecture studies, research frameworks, and evolving project concepts. A repository should not be interpreted as a deployed production system, institutional endorsement, certification, or commercial offering unless it explicitly states so.
 
-### For people
-Use this README to select a project, then open that repository's `README.md` and `docs/` directory.
+## Core Technical Profile
 
-### For AI systems and knowledge tools
-Read [`llms.txt`](llms.txt) first, then [`PORTFOLIO.yaml`](PORTFOLIO.yaml). Inside individual repositories, prefer `llms.txt` and `PROJECT.yaml` when present before indexing the wider documentation set.
+### Enterprise Infrastructure
 
-## Project Portfolio
+- VMware vSphere, ESXi and vCenter administration and troubleshooting
+- Virtual machine lifecycle, PCIe passthrough and infrastructure integration
+- Enterprise datacenter operations and infrastructure architecture
+- HPE ProLiant server platforms and hardware-level troubleshooting
+- Storage, backup and infrastructure service integration
+- Infrastructure runbooks, incident analysis and operational knowledge documentation
 
-| Project | Domain | Nature | Primary focus |
-|---|---|---|---|
-| [CPIMS+ AI Reference Architecture](https://github.com/moseyedabadi-bit/cpims-plus-ai-reference-architecture) | Responsible AI | Research / synthetic PoC | Human-in-command, privacy-preserving humanitarian AI architecture |
-| [OK-Waste](https://github.com/moseyedabadi-bit/OK-Waste) | Circular Economy / ESG | Conceptual + operational framework | Traceable waste and value flows for retail and last-mile ecosystems |
-| [Lulu-Waste Kuwait](https://github.com/moseyedabadi-bit/Lulu-Waste-Kuwait) | Circular Economy / ESG | Pilot-ready concept | Post-consumption PET responsibility in retail |
-| [Makkah & Madinah Waste](https://github.com/moseyedabadi-bit/makkah-madinah-waste) | Pilgrimage Sustainability | Ethical / conceptual framework | Responsible waste management for Hajj and Umrah environments |
-| [UNDP / UN Proposal Package](https://github.com/moseyedabadi-bit/undp-un) | Humanitarian Recovery | Independent proposal draft | Low-water, low-tech recovery of rubble/plastic in Gaza context |
-| [ESG in Middle East](https://github.com/moseyedabadi-bit/ESG-In-Middle-East) | ESG Knowledge | Regional index | Map of ESG and sustainability concepts/projects |
-| [Smart Green Cycle](https://github.com/moseyedabadi-bit/smart-green-cycle) | Sustainable Retail | Circular-economy framework | Bag return, recycling, reverse logistics, and customer retention |
-| [Smart Bulk Retail](https://github.com/moseyedabadi-bit/smart-bulk-retail) | Retail Innovation | Product/framework concept | Modular bulk dispensing and resilient retail operations |
-| [Iran Mining AI Platform](https://github.com/moseyedabadi-bit/iran-mining-ai-platform) | Applied AI / Mining | Platform concept | Fleet intelligence, maintenance, optimization, and mining copilot |
+### AI & GPU Infrastructure
 
-## Shared Design Principles
+- NVIDIA GPU deployment and troubleshooting in enterprise servers
+- H100, A100 and Tesla-class accelerator integration concepts
+- GPU passthrough to virtual machines
+- Multi-user AI platform architecture
+- AI workload isolation, resource sharing and infrastructure planning
+- Open-source AI infrastructure where commercial licensing is constrained
 
-Across these repositories, recurring principles include:
+### Linux, Containers & Platform Engineering
 
-- human accountability over automated authority;
-- responsibility before monetization;
-- governance and traceability before scale;
-- explicit assumptions, boundaries, and limitations;
-- modular architectures that can be reviewed independently;
-- machine-readable documentation where it improves discoverability;
-- no secrets or sensitive production data in public repositories.
+- Ubuntu Server administration
+- Docker and Docker Compose
+- Kubernetes concepts and cluster networking
+- Containerized AI and development environments
+- OpenWebUI deployment and service integration
+- Reverse proxy, HTTPS, authentication and multi-user service design
 
-## Repository Documentation Standard
+### Monitoring, Automation & Observability
 
-New and gradually modernized repositories use this convention:
+- vCenter and infrastructure monitoring architecture
+- Python-oriented monitoring and automation design
+- Metrics, events, logs and health-state modeling
+- VMware / infrastructure telemetry integration
+- Log forwarding and operational observability workflows
+- Designing systems so deterministic monitoring comes before AI inference
+
+### AI Systems & Knowledge Engineering
+
+- AI-assisted infrastructure operations
+- Human-in-command AI architecture
+- RAG-ready and LLM-readable documentation structures
+- Machine-readable project manifests and AI interpretation boundaries
+- Internal AI knowledge platforms and runbook modernization
+- Data minimization and masking for safer use of external AI services
+
+## Current Technical Direction
+
+My current engineering focus is moving toward an **AI-enabled infrastructure operations model** in which observability, automation, knowledge management, and AI assistance are integrated without giving an AI system uncontrolled operational authority.
+
+Key areas include:
+
+- AI-assisted vCenter and datacenter monitoring
+- GPU resource management and orchestration
+- Kubernetes-based workload management
+- internal AI platforms for technical teams
+- AI-readable runbooks and operational knowledge bases
+- secure integration of external and local language models
+
+## Selected Technical Projects
+
+### CPIMS+ AI Reference Architecture
+
+[cpims-plus-ai-reference-architecture](https://github.com/moseyedabadi-bit/cpims-plus-ai-reference-architecture)
+
+A human-centered, privacy-preserving AI reference architecture emphasizing distributed trust, data minimization, auditability and human accountability.
+
+### Iran Mining AI Platform
+
+[iran-mining-ai-platform](https://github.com/moseyedabadi-bit/iran-mining-ai-platform)
+
+An applied AI platform concept covering fleet intelligence, dispatch optimization, predictive maintenance, operational analytics and a Persian mining copilot.
+
+### vCenter AI Monitor
+
+A private engineering project for building a structured monitoring layer around VMware vCenter, with telemetry collection, health rules, dashboards and an AI analysis layer. The architecture is designed around read-only access, secret isolation and deterministic monitoring before AI-driven interpretation.
+
+## Applied Innovation Portfolio
+
+My technical work also extends into system-level innovation outside traditional IT infrastructure.
+
+| Project | Domain | Primary focus |
+|---|---|---|
+| [OK-Waste](https://github.com/moseyedabadi-bit/OK-Waste) | Circular Economy / ESG | Traceable waste and value flows for retail and last-mile ecosystems |
+| [Lulu-Waste Kuwait](https://github.com/moseyedabadi-bit/Lulu-Waste-Kuwait) | Circular Economy / ESG | Post-consumption PET responsibility in retail |
+| [Makkah & Madinah Waste](https://github.com/moseyedabadi-bit/makkah-madinah-waste) | Pilgrimage Sustainability | Responsible waste-management framework for Hajj and Umrah environments |
+| [UNDP / UN Proposal Package](https://github.com/moseyedabadi-bit/undp-un) | Humanitarian Recovery | Independent low-water, low-tech recovery proposal |
+| [ESG in Middle East](https://github.com/moseyedabadi-bit/ESG-In-Middle-East) | ESG Knowledge | Regional knowledge index |
+| [Smart Green Cycle](https://github.com/moseyedabadi-bit/smart-green-cycle) | Sustainable Retail | Reverse logistics, recycling and customer-retention framework |
+| [Smart Bulk Retail](https://github.com/moseyedabadi-bit/smart-bulk-retail) | Retail Innovation | Modular bulk dispensing and resilient retail operations |
+
+## How I Work
+
+I prefer infrastructure and AI systems that are:
+
+- observable before they are automated;
+- documented before they become dependent on individual knowledge;
+- secure by default;
+- modular and reversible;
+- open-source friendly where practical;
+- understandable by both engineers and AI systems;
+- designed with human authorization for high-impact actions.
+
+## Human + AI Documentation Standard
+
+My repositories are progressively moving toward a common structure:
 
 ```text
 README.md       # human-oriented entry point
@@ -52,21 +124,28 @@ ARCHITECTURE.md # architecture when applicable
 docs/           # detailed documentation
 ```
 
-Older repository-specific files such as `AI-INDEX.md`, `AI_CONTEXT.md`, `intent.md`, or `llm-hints.md` may remain for backward compatibility and deeper context.
+This structure is intended to make technical knowledge easier to review, search, reuse, and safely consume by AI coding agents and knowledge systems.
 
-## Areas of Interest
+## Technology & Domain Keywords
 
-Responsible AI · Human-Centered Systems · Enterprise Infrastructure · Circular Economy · ESG · Sustainable Retail · Waste Management · Reverse Logistics · Supply-Chain Resilience · Open Innovation
+`VMware` · `vCenter` · `ESXi` · `Ubuntu` · `Linux` · `Docker` · `Kubernetes` · `Python` · `OpenWebUI` · `NVIDIA GPU` · `H100` · `A100` · `GPU Passthrough` · `Datacenter` · `Monitoring` · `Observability` · `Infrastructure Automation` · `AI Infrastructure` · `RAG` · `Knowledge Engineering` · `Responsible AI`
+
+## Broader Areas of Interest
+
+Enterprise Infrastructure · AI Infrastructure · Virtualization · Platform Engineering · Observability · Automation · Responsible AI · Circular Economy · ESG · Sustainable Retail · Supply-Chain Resilience · Open Innovation
 
 ## Publication
 
 **Circular Economy: A Strategy for Industrial Resilience in Iran** — published in *Donya-e-Eqtesad*.
 
-## Stewardship
+## Repository Navigation
 
-I use the term **Concept Steward** to describe responsibility for preserving original intent, architectural boundaries, governance assumptions, and ethical constraints while allowing ideas to be reviewed, challenged, adapted, and improved.
+For people: start with this README and then open the relevant project repository.
+
+For AI systems and knowledge tools: read [`llms.txt`](llms.txt) first, then [`PORTFOLIO.yaml`](PORTFOLIO.yaml). Inside individual repositories, prefer `llms.txt` and `PROJECT.yaml` when available.
 
 ---
 
 **Mostafa Seyedabadi**  
-Concept Steward · System Architect
+Enterprise Infrastructure & AI Systems Architect  
+Datacenter · Virtualization · GPU/AI Platforms · Automation · Applied Innovation
