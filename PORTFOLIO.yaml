@@ -1,57 +1,155 @@
-schema_version: 1
+schema_version: 2
 owner:
   name: Mostafa Seyedabadi
   github: moseyedabadi-bit
-portfolio_purpose: Human- and AI-readable index of public research, sustainability, retail innovation, and AI architecture repositories.
+  professional_identity:
+    primary:
+      - enterprise-infrastructure
+      - datacenter-engineering
+      - virtualization
+      - ai-infrastructure
+      - platform-engineering
+      - monitoring-observability
+      - infrastructure-automation
+    secondary:
+      - responsible-ai
+      - applied-ai
+      - circular-economy
+      - esg
+      - sustainable-retail
+      - open-innovation
+
+capability_domains:
+  enterprise_infrastructure:
+    - vmware-vsphere
+    - esxi
+    - vcenter
+    - hpe-proliant
+    - linux-ubuntu
+    - storage-backup-integration
+    - operational-runbooks
+  ai_gpu_infrastructure:
+    - nvidia-gpu-integration
+    - h100
+    - a100
+    - tesla-class-gpu
+    - gpu-passthrough
+    - multi-user-ai-platforms
+    - workload-isolation
+  platform_engineering:
+    - docker
+    - docker-compose
+    - kubernetes
+    - containerized-development
+    - openwebui
+    - reverse-proxy-https
+  observability_automation:
+    - infrastructure-monitoring
+    - metrics-events-logs
+    - health-state-modeling
+    - python-oriented-automation
+    - ai-assisted-operations
+  knowledge_engineering:
+    - ai-readable-runbooks
+    - rag-ready-documentation
+    - machine-readable-manifests
+    - data-minimization
+    - knowledge-management
+
+portfolio_purpose: Human- and AI-readable index of technical architecture, applied AI, infrastructure, sustainability, retail innovation and research repositories.
+
 repositories:
   - name: cpims-plus-ai-reference-architecture
     domain: responsible-ai
     type: reference-architecture
     status: research-synthetic-poc
+    relevance_to_profile:
+      - ai-systems-architecture
+      - privacy
+      - human-in-command
     ai_entry: llms.txt
-  - name: OK-Waste
-    domain: circular-economy
-    type: conceptual-operational-framework
-    status: research-development
-    ai_entry: llms.txt
-  - name: Lulu-Waste-Kuwait
-    domain: circular-economy-esg
-    type: pilot-ready-framework
-    status: concept
-    ai_entry: llms.txt
-  - name: makkah-madinah-waste
-    domain: pilgrimage-sustainability
-    type: conceptual-ethical-framework
-    status: research
-    ai_entry: llms.txt
-  - name: undp-un
-    domain: humanitarian-recovery
-    type: independent-proposal-package
-    status: proposal-draft
-    ai_entry: llms.txt
-  - name: ESG-In-Middle-East
-    domain: esg-knowledge-index
-    type: portfolio-index
-    status: evolving
-    ai_entry: llms.txt
-  - name: smart-green-cycle
-    domain: sustainable-retail
-    type: circular-economy-framework
-    status: concept-validation-pilot-design
-    ai_entry: llms.txt
-  - name: smart-bulk-retail
-    domain: retail-innovation
-    type: product-framework
-    status: concept-development
-    ai_entry: llms.txt
+
   - name: iran-mining-ai-platform
     domain: mining-ai
     type: platform-concept
     status: architecture-business-concept
+    relevance_to_profile:
+      - applied-ai
+      - operations-intelligence
+      - ai-platform-architecture
     ai_entry: llms.txt
+
+  - name: OK-Waste
+    domain: circular-economy
+    type: conceptual-operational-framework
+    status: research-development
+    relevance_to_profile:
+      - system-design
+      - traceability
+      - applied-innovation
+    ai_entry: llms.txt
+
+  - name: Lulu-Waste-Kuwait
+    domain: circular-economy-esg
+    type: pilot-ready-framework
+    status: concept
+    relevance_to_profile:
+      - system-design
+      - governance
+      - applied-innovation
+    ai_entry: llms.txt
+
+  - name: makkah-madinah-waste
+    domain: pilgrimage-sustainability
+    type: conceptual-ethical-framework
+    status: research
+    relevance_to_profile:
+      - system-architecture
+      - governance
+      - sustainability
+    ai_entry: llms.txt
+
+  - name: undp-un
+    domain: humanitarian-recovery
+    type: independent-proposal-package
+    status: proposal-draft
+    relevance_to_profile:
+      - systems-thinking
+      - humanitarian-innovation
+    ai_entry: llms.txt
+
+  - name: ESG-In-Middle-East
+    domain: esg-knowledge-index
+    type: portfolio-index
+    status: evolving
+    relevance_to_profile:
+      - knowledge-organization
+      - sustainability
+    ai_entry: llms.txt
+
+  - name: smart-green-cycle
+    domain: sustainable-retail
+    type: circular-economy-framework
+    status: concept-validation-pilot-design
+    relevance_to_profile:
+      - applied-system-design
+      - reverse-logistics
+      - retail-innovation
+    ai_entry: llms.txt
+
+  - name: smart-bulk-retail
+    domain: retail-innovation
+    type: product-framework
+    status: concept-development
+    relevance_to_profile:
+      - product-system-design
+      - operational-resilience
+    ai_entry: llms.txt
+
 conventions:
   human_entry: README.md
   ai_entry: llms.txt
   machine_manifest: PROJECT.yaml
   documentation_root: docs/
+  evidence_rule: Distinguish demonstrated infrastructure capability from conceptual or research project claims.
   secrets_policy: Never store credentials, API keys, private tokens, or sensitive production identifiers in public repositories.
