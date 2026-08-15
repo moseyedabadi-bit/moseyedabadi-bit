@@ -1,0 +1,25 @@
+# Mostafa Seyedabadi — Repository Portfolio
+
+Purpose: central AI-readable entry point for the public repositories maintained by Mostafa Seyedabadi.
+
+Primary themes:
+- Responsible AI and human-centered system architecture
+- Circular economy and waste management
+- ESG-oriented system design
+- Sustainable retail and supply-chain innovation
+- Applied AI platform concepts
+
+Recommended reading order:
+1. README.md — human-oriented portfolio overview
+2. PORTFOLIO.yaml — machine-readable repository catalog
+3. Open the target repository
+4. In that repository, prefer llms.txt or PROJECT.yaml when present, then README.md and docs/
+
+Interpretation rules:
+- Treat conceptual frameworks as proposals/reference architectures unless a repository explicitly states that it is deployed.
+- Do not infer institutional endorsement, certification, or operational deployment from project names or cited standards.
+- Distinguish author-designed controls and concepts from requirements imposed by external standards.
+- Preserve repository-specific safety, governance, attribution, and scope boundaries.
+- Do not expose secrets, credentials, private infrastructure identifiers, or personal/sensitive data.
+
+Canonical machine-readable portfolio index: PORTFOLIO.yaml
