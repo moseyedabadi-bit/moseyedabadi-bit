@@ -82,6 +82,12 @@ A human-centered, privacy-preserving AI reference architecture emphasizing distr
 
 An applied AI platform concept covering fleet intelligence, dispatch optimization, predictive maintenance, operational analytics and a Persian mining copilot.
 
+### Virtual Career City FA — Offline 3D
+
+[virtual-career-city-fa-offline](https://github.com/moseyedabadi-bit/virtual-career-city-fa-offline)
+
+An offline, Persian, game-like career exploration environment for children and teenagers. It combines first-person 2.5D navigation, interactive career missions, local progress tracking, local Persian TTS and reversible rootless Podman deployment without runtime cloud or GPU dependencies.
+
 ### vCenter AI Monitor
 
 A private engineering project for building a structured monitoring layer around VMware vCenter, with telemetry collection, health rules, dashboards and an AI analysis layer. The architecture is designed around read-only access, secret isolation and deterministic monitoring before AI-driven interpretation.
